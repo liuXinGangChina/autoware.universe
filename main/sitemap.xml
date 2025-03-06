@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://autowarefoundation.github.io/autoware.universe/main/common/autoware_cuda_dependency_meta/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://autowarefoundation.github.io/autoware.universe/main/common/autoware_fake_test_node/design/fake_test_node-design/</loc>
          <lastmod>2025-03-06</lastmod>
          <changefreq>daily</changefreq>
