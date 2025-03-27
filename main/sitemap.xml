@@ -61,11 +61,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://autowarefoundation.github.io/autoware_universe/main/common/autoware_global_parameter_loader/Readme/</loc>
-         <lastmod>2025-03-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://autowarefoundation.github.io/autoware_universe/main/common/autoware_glog_component/</loc>
          <lastmod>2025-03-27</lastmod>
          <changefreq>daily</changefreq>
